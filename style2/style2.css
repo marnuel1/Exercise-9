@@ -1,0 +1,16 @@
+body {
+    background-color: #faebd6;
+  }
+  
+  h1 {
+    color: #ff0000;
+  }
+  
+  p:first-of-type {
+    color: #a42423;
+  }
+  
+  p:last-of-type {
+    color: #00008f;
+  }
+  
